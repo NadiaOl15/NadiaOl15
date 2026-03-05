@@ -3,13 +3,13 @@
 Perfil profesional en Entornos Virtuales
 
 <h1 align="center">Nadia Paola Noya Olvera</h1>
-<h3 align="center">Desarrollador Web | Diseñador Digital | Especialidad | Animación digital</h3>
+<h3 align="center">Desarrolladora Web | Diseñadora Digital | Especialidad en diseño y producción audiovisual | Animación digital</h3>
 
 <p align="center">
 📍 Tlaxcala, México  
 📧 nadia.noya.ol@gmail.com  
 📱 241-164-8796  
-🌐 <a href="https://">Portafolio</a>
+🌐 <a href="https://linktr.ee/NadiaNoya">Redes sociales</a>
 </p>
 
 ---
