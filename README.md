@@ -30,24 +30,27 @@ Desarrollador con experiencia en creación de aplicaciones web responsivas, mane
 ![C#](https://img.shields.io/badge/CSharp-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 
 ### 🎨 Diseño y Multimedia
-Blender | Unity | Photoshop | Premiere | Krita | Canva
+Blender | Unity | Photoshop | Adobe Premiere | Adobe Audition | FL Studio | Krita | Canva 
 
 ### 🗄️ Bases de Datos
 PostgreSQL | XAMPP | MySQL
+
+### 📊 Herramientas Digitales
+Microsoft Word | Excel | PowerPoint | Google Docs | Google Sheets
 
 ---
 
 ## 💼 Experiencia
 
-### 🏢 Nombre de Empresa
-**Puesto** | 2022 - 2024  
-- Desarrollo de sistema web responsivo.
-- Optimización de base de datos.
-- Implementación de mejoras en UI/UX.
+### 🏢 Excursiones Tlaxcalita la Bella
+**Community Manager** | 2024 - 2025  
+- Manejo de publicidad pagada.
+- Interacción con seguidores.
+- Publicación de contenido.
 
-### 🏢 Nombre de Empresa
-**Puesto** | 2020 - 2022  
-- Gestión de proyectos digitales.
+### 🏢 Excursiones Tlaxcalita la Bella
+**Diseñadora e ilustradora digital** | 2024 - Presente
+- Creación de ilustraciones .
 - Creación de contenido multimedia.
 
 ---
