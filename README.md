@@ -141,22 +141,22 @@ Word
 </td>
 
 <td>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="48"><br>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Microsoft_Office_Excel_%282025%E2%80%93present%29.svg/250px-Microsoft_Office_Excel_%282025%E2%80%93present%29.svg.png" width="48"><br>
 Excel
 </td>
 
 <td>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="48"><br>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Microsoft_Office_PowerPoint_%282025%E2%80%93present%29.svg/250px-Microsoft_Office_PowerPoint_%282025%E2%80%93present%29.svg.png" width="48"><br>
 PowerPoint
 </td>
 
 <td>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="48"><br>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Google_Docs_2020_Logo.svg/960px-Google_Docs_2020_Logo.svg.png?_=20201116131435" width="40"><br>
 Google Docs
 </td>
 
 <td>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="48"><br>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Google_Sheets_logo_%282014-2020%29.svg/120px-Google_Sheets_logo_%282014-2020%29.svg.png?_=20201024100414" width="40"><br>
 Google Sheets
 </td>
 
@@ -220,7 +220,7 @@ Universidad Tecnológica de Tlaxcala | 2024 - Presente
 Aplicación móvil de catálogo digital para una tienda de dulces tradicionales.
 
 🎥 Video demostración  
-https://youtube.com/tu-video
+[![Ver video](img/catalogo-preview.png)](videos/catalogo-digital.mp4)
 
 ---
 
