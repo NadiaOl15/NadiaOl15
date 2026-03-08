@@ -239,7 +239,7 @@ Universidad Tecnológica de Tlaxcala | 2024 - Presente
 Aplicación móvil de catálogo digital para una tienda de dulces tradicionales.
 
 🎥 Video demostración  
-[![Ver video](img/Portada_App.png)](videos/catalogo-digital.mp4)
+[![Ver video](img/Portada_App.png)](videos/VideoUsabilidad_AppMovil_SweetBloom (1).mp4)
 
 ---
 
@@ -247,7 +247,7 @@ Aplicación móvil de catálogo digital para una tienda de dulces tradicionales.
 Sistema de inventario para PC para la gestión de productos de una tienda de dulces tradicionales.
 
 🎥 Video demostración  
-[![Ver video](img/Portada_Sistema.png)](videos/catalogo-digital.mp4)
+[![Ver video](img/Portada_Sistema.png)](videos/VideoUsabilidadEscritorio_SweetBloom.mp4)
 
 ---
 
@@ -265,7 +265,7 @@ Cortometraje audiovisual para concientizar sobre la violencia en el noviazgo.
 Cortometraje animado en 2D enfocado en la concientización sobre el bullying.
 
 🎬 Ver cortometraje  
-[![Ver video](img/Portada_Cascabel.png)](videos/catalogo-digital.mp4)
+[![Ver video](img/Portada_Cascabel.png)](videos/mr cascabel final (3).mp4)
 
 ---
 
