@@ -270,30 +270,68 @@ Cortometraje animado en 2D enfocado en la concientización sobre el bullying.
 
 ---
 
-# 📜 Constancias y Certificaciones
+<h1>📜 Constancias y Certificaciones</h1>
 
-**Curso: Desarrollador de Sitios Web Responsivos** | Abril, 2025
-<img src="img/(25)Gotas.gif" width="180">  
-##
+<table>
 
-**Reconocimiento a creatividad en Rally TI-UTT** | Octubre, 2025 
-<img src="img/(25)Gotas.gif" width="180">  
-##
+<tr>
 
-**Segundo Congreso de Tecnología y Ciberseguridad** | Octubre, 2026 
-<img src="img/(25)Gotas.gif" width="180">  
-##
+<td width="33%">
+<img src="img/certificado-html.png" width="100%">
+<br>
+<b>Curso: Desarrollador de Sitios Web Responsivos | Abril, 2025</b>
+<br>
+<a href="certificados/constancia-html.pdf">📄 Ver certificado</a>
+</td>
 
-**Taller: Animación Digital 3D Avanzada** | Octubre, 2025
-<img src="img/(25)Gotas.gif" width="180">  
-##
+<td width="33%">
+<img src="img/certificado-python.png" width="100%">
+<br>
+<b>Reconocimiento a creatividad en Rally TI-UTT | Octubre, 2025</b>
+<br>
+<a href="certificados/constancia-python.pdf">📄 Ver certificado</a>
+</td>
 
-**Presentación de cortometrajes por Primera Jornada Cultura de Paz** | Noviembre, 2025  
-<img src="img/(25)Gotas.gif" width="180">  
-##
+<td width="33%">
+<img src="img/certificado-diseno.png" width="100%">
+<br>
+<b>Segundo Congreso de Tecnología y Ciberseguridad | Octubre, 2026</b>
+<br>
+<a href="certificados/diseno-digital.pdf">📄 Ver certificado</a>
+</td>
 
-**Curso: SanaMente LibreMente: jóvenes por la paz y contra las adicciones** | Febrero, 2026 
-<img src="img/(25)Gotas.gif" width="180">  
+</tr>
+
+<tr>
+
+<td width="33%">
+<img src="img/certificado-html.png" width="100%">
+<br>
+<b>Taller: Animación Digital 3D Avanzada | Octubre, 2025</b>
+<br>
+<a href="certificados/constancia-html.pdf">📄 Ver certificado</a>
+</td>
+
+<td width="33%">
+<img src="img/certificado-python.png" width="100%">
+<br>
+<b>Presentación de cortometrajes por Primera Jornada Cultura de Paz | Noviembre, 2025</b>
+<br>
+<a href="certificados/constancia-python.pdf">📄 Ver certificado</a>
+</td>
+
+<td width="33%">
+<img src="img/certificado-diseno.png" width="100%">
+<br>
+<b>Curso: SanaMente LibreMente: jóvenes por la paz y contra las adicciones | Febrero, 2026</b>
+<br>
+<a href="certificados/diseno-digital.pdf">📄 Ver certificado</a>
+</td>
+
+</tr>
+
+
+</table>
 
 ---
 
