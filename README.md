@@ -272,9 +272,28 @@ Cortometraje animado en 2D enfocado en la concientización sobre el bullying.
 
 # 📜 Constancias y Certificaciones
 
-- Certificación o curso 1  
-- Certificación o curso 2  
-- Certificación o curso 3  
+**Curso: Desarrollador de Sitios Web Responsivos** | Abril, 2025
+<img src="img/(25)Gotas.gif" width="180">  
+##
+
+**Reconocimiento a creatividad en Rally TI-UTT** | Octubre, 2025 
+<img src="img/(25)Gotas.gif" width="180">  
+##
+
+**Segundo Congreso de Tecnología y Ciberseguridad** | Octubre, 2026 
+<img src="img/(25)Gotas.gif" width="180">  
+##
+
+**Taller: Animación Digital 3D Avanzada** | Octubre, 2025
+<img src="img/(25)Gotas.gif" width="180">  
+##
+
+**Presentación de cortometrajes por Primera Jornada Cultura de Paz** | Noviembre, 2025  
+<img src="img/(25)Gotas.gif" width="180">  
+##
+
+**Curso: SanaMente LibreMente: jóvenes por la paz y contra las adicciones** | Febrero, 2026 
+<img src="img/(25)Gotas.gif" width="180">  
 
 ---
 
