@@ -6,7 +6,7 @@ Perfil profesional en Entornos Virtuales
 <tr>
 <td width="150">
 
-<img src="img/foto-perfil.png" width="140">
+<img src="img/PerfilProvisional.jpg" width="140">
 
 </td>
 <td>
@@ -26,7 +26,7 @@ Perfil profesional en Entornos Virtuales
 ---
 
 <p align="center">
-<img src="img/Banner.png" width="1000" height="100">
+<img src="img/Banner.png" width="100%">
 </p>
 
 ---
@@ -52,7 +52,52 @@ Desarrolladora y diseñadora digital con experiencia en creación de aplicacione
 # 🛠️ Tecnologías y Herramientas
 
 ## 🎨 Diseño y Multimedia
-Blender | Unity | Photoshop | Adobe Premiere | Adobe Audition | FL Studio | Krita | Canva
+
+<table border="0" style="border:none;">
+<tr align="center">
+
+<td>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" width="48"><br>
+Blender
+</td>
+
+<td>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="48"><br>
+Unity
+</td>
+
+<td>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="48"><br>
+Photoshop
+</td>
+
+<td>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-original.svg" width="48"><br>
+Premiere
+</td>
+
+<td>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Adobe_Audition_CC_icon_%282020%29.svg/1280px-Adobe_Audition_CC_icon_%282020%29.svg.png?_=20200616120744" width="48"><br>
+Audition
+</td>
+
+<td>
+<img src="https://static.wikia.nocookie.net/logo_editing/images/f/f2/FL_Studio_2024.png/revision/latest?cb=20250715102654" width="48"><br>
+FL Studio
+</td>
+
+<td>
+<img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Calligrakrita-base.svg" width="48"><br>
+Krita
+</td>
+
+<td>
+<img src="https://logo-teka.com/wp-content/uploads/2025/09/canva-icon-logo.svg" width="48"><br>
+Canva
+</td>
+
+</tr>
+</table>
 
 ## 👨‍💻 Desarrollo
 
@@ -63,10 +108,60 @@ Blender | Unity | Photoshop | Adobe Premiere | Adobe Audition | FL Studio | Krit
 ![C#](https://img.shields.io/badge/CSharp-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 
 ## 🗄️ Bases de Datos
-PostgreSQL | XAMPP | MySQL
+
+<table border="0" style="border:none;">
+<tr align="center">
+
+<td>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="48"><br>
+PostgreSQL
+</td>
+
+<td>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="48"><br>
+MySQL
+</td>
+
+<td>
+<img src="https://images.icon-icons.com/1381/PNG/512/xampp_94513.png" width="48"><br>
+XAMPP
+</td>
+
+</tr>
+</table>
 
 ## 📊 Herramientas Digitales
-Microsoft Word | Excel | PowerPoint | Google Docs | Google Sheets
+
+<table border="0" style="border:none;">
+<tr align="center">
+
+<td>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Microsoft_Office_Word_%282025%E2%80%93present%29.svg/1280px-Microsoft_Office_Word_%282025%E2%80%93present%29.svg.png" width="48"><br>
+Word
+</td>
+
+<td>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="48"><br>
+Excel
+</td>
+
+<td>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="48"><br>
+PowerPoint
+</td>
+
+<td>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="48"><br>
+Google Docs
+</td>
+
+<td>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="48"><br>
+Google Sheets
+</td>
+
+</tr>
+</table>
 
 ---
 
