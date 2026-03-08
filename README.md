@@ -234,10 +234,9 @@ Sistema de inventario para PC para la gestión de productos de una tienda de dul
 
 ### 🎞️ Cortometraje **"Lo Que No Se Dice"**
 Cortometraje audiovisual para concientizar sobre la violencia en el noviazgo.
-[![Ver video](img/Portada_Corto.png)](videos/catalogo-digital.mp4)
 
 🎬 Ver cortometraje  
-[![Ver video](img/Portada_Cascabel.png)](videos/catalogo-digital.mp4)
+[![Ver video](img/Portada_Corto.png)](videos/catalogo-digital.mp4)
 
 ---
 
@@ -245,7 +244,7 @@ Cortometraje audiovisual para concientizar sobre la violencia en el noviazgo.
 Cortometraje animado en 2D enfocado en la concientización sobre el bullying.
 
 🎬 Ver cortometraje  
-https://youtube.com/tu-video
+[![Ver video](img/Portada_Cascabel.png)](videos/catalogo-digital.mp4)
 
 ---
 
