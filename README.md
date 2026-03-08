@@ -309,7 +309,7 @@ Cortometraje animado en 2D enfocado en la concientización sobre el bullying.
 <br>
 <b>Taller: Animación Digital 3D Avanzada | Octubre, 2025</b>
 <br>
-<a href="PDF/AminacionAvanzada.pdf">📄 Ver certificado</a>
+<a href="PDF/AnimacionAvanzada.pdf">📄 Ver certificado</a>
 </td>
 
 <td width="33%">
