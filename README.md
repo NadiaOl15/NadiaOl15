@@ -277,27 +277,27 @@ Cortometraje animado en 2D enfocado en la concientización sobre el bullying.
 <tr>
 
 <td width="33%">
-<img src="img/certificado-html.png" width="100%">
+<img src="img/c1.png" width="100%">
 <br>
 <b>Curso: Desarrollador de Sitios Web Responsivos | Abril, 2025</b>
 <br>
-<a href="certificados/constancia-html.pdf">📄 Ver certificado</a>
+<a href="PDF/Responsivos.pdf">📄 Ver certificado</a>
 </td>
 
 <td width="33%">
-<img src="img/certificado-python.png" width="100%">
+<img src="img/c2.png" width="100%">
 <br>
 <b>Reconocimiento a creatividad en Rally TI-UTT | Octubre, 2025</b>
 <br>
-<a href="certificados/constancia-python.pdf">📄 Ver certificado</a>
+<a href="PDF/Rally.pdf">📄 Ver certificado</a>
 </td>
 
 <td width="33%">
-<img src="img/certificado-diseno.png" width="100%">
+<img src="img/c3.png" width="100%">
 <br>
 <b>Segundo Congreso de Tecnología y Ciberseguridad | Octubre, 2026</b>
 <br>
-<a href="certificados/diseno-digital.pdf">📄 Ver certificado</a>
+<a href="PDF/TecnologiaCiberseguridad.pdf">📄 Ver certificado</a>
 </td>
 
 </tr>
@@ -305,27 +305,27 @@ Cortometraje animado en 2D enfocado en la concientización sobre el bullying.
 <tr>
 
 <td width="33%">
-<img src="img/certificado-html.png" width="100%">
+<img src="img/c4.png" width="100%">
 <br>
 <b>Taller: Animación Digital 3D Avanzada | Octubre, 2025</b>
 <br>
-<a href="certificados/constancia-html.pdf">📄 Ver certificado</a>
+<a href="PDF/AminacionAvanzada.pdf">📄 Ver certificado</a>
 </td>
 
 <td width="33%">
-<img src="img/certificado-python.png" width="100%">
+<img src="img/c5.png" width="100%">
 <br>
 <b>Presentación de cortometrajes por Primera Jornada Cultura de Paz | Noviembre, 2025</b>
 <br>
-<a href="certificados/constancia-python.pdf">📄 Ver certificado</a>
+<a href="PDF/Cortometrajes.pdf">📄 Ver certificado</a>
 </td>
 
 <td width="33%">
-<img src="img/certificado-diseno.png" width="100%">
+<img src="img/c6.png" width="100%">
 <br>
 <b>Curso: SanaMente LibreMente: jóvenes por la paz y contra las adicciones | Febrero, 2026</b>
 <br>
-<a href="certificados/diseno-digital.pdf">📄 Ver certificado</a>
+<a href="PDF/Saberes.pdf">📄 Ver certificado</a>
 </td>
 
 </tr>
