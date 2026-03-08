@@ -6,7 +6,7 @@ Perfil profesional en Entornos Virtuales
 <tr>
 <td width="150">
 
-<img src="https://via.placeholder.com/140" width="140">
+<img src="img/foto-perfil.png" width="140">
 
 </td>
 <td>
@@ -26,7 +26,7 @@ Perfil profesional en Entornos Virtuales
 ---
 
 <p align="center">
-<img src="https://via.placeholder.com/620x220" width="620">
+<img src="img/Header_Horizontal.jpg" width="620">
 </p>
 
 ---
@@ -85,7 +85,7 @@ Microsoft Word | Excel | PowerPoint | Google Docs | Google Sheets
 # 🌎 Idiomas
 
 - Español — Nativo  
-- Inglés — Intermedio  
+- Inglés — Intermedio/Alto
 
 ---
 
@@ -94,7 +94,7 @@ Microsoft Word | Excel | PowerPoint | Google Docs | Google Sheets
 ## 🏢 Excursiones Tlaxcalita la Bella  
 **Community Manager** | 2024 - 2025  
 
-<img src="https://via.placeholder.com/500x250">
+<img src="img/CapturaFB.png" width="500">
 
 - Manejo de publicidad pagada
 - Interacción con seguidores
@@ -105,7 +105,7 @@ Microsoft Word | Excel | PowerPoint | Google Docs | Google Sheets
 ## 🏢 Excursiones Tlaxcalita la Bella  
 **Diseñadora e ilustradora digital** | 2024 - Presente  
 
-<img src="https://via.placeholder.com/500x250">
+<img src="img/Imanes.png" width="500">
 
 - Creación de ilustraciones
 - Creación de contenido multimedia
@@ -121,31 +121,65 @@ Universidad Tecnológica de Tlaxcala | 2024 - Presente
 
 # 🚀 Proyectos
 
-### 🍬 Catálogo digital en aplicación móvil.
-Aplicación para móviles de catalogo digital para una tienda de dulces tradicionales.
-//Video de usabilidad//
+### 🍬 Catálogo digital en aplicación móvil
+Aplicación móvil de catálogo digital para una tienda de dulces tradicionales.
 
-### 🌐 Sistema de inventario para PC.
-Sistema de inventario para PC de una tienda de dulces tradicionales.
-//Video de usabilidad//
-
-### 🎞️ Cortometraje "Lo Que No Se Dice"
-Crotometraje para concientizar sobre la violencia en el noviazgo.
-//Video del cortometraje//
-
-### 🎨 Cortometraje animado "Mr. Cascabel"
-Crotometraje animado en 2D para concientizar sobre el bullying.
-//Video del cortometraje//
-
-### 👩 Carteles digitales con animación
-Carteles digitales con animación en GIF para concientizar sobre la violencia hacia la mujer.
-//GIF 1// //GIF 2// //GIF 3//
-//GIF 4// //GIF 5// //GIF 6//
-//GIF 7// //GIF 8// //GIF 9//
+🎥 Video demostración  
+https://youtube.com/tu-video
 
 ---
 
-//Apartado de constancias y certificaciones//
+### 🌐 Sistema de inventario para PC
+Sistema de inventario para PC para la gestión de productos de una tienda de dulces tradicionales.
+
+🎥 Video demostración  
+https://youtube.com/tu-video
+
+---
+
+### 🎞️ Cortometraje **"Lo Que No Se Dice"**
+Cortometraje audiovisual para concientizar sobre la violencia en el noviazgo.
+
+🎬 Ver cortometraje  
+https://youtube.com/tu-video
+
+---
+
+### 🎨 Cortometraje animado **"Mr. Cascabel"**
+Cortometraje animado en 2D enfocado en la concientización sobre el bullying.
+
+🎬 Ver cortometraje  
+https://youtube.com/tu-video
+
+---
+
+### 👩 Carteles digitales animados contra la violencia hacia la mujer
+
+<p align="center">
+
+<img src="images/cartel1.gif" width="180">
+<img src="images/cartel2.gif" width="180">
+<img src="images/cartel3.gif" width="180">
+
+<img src="images/cartel4.gif" width="180">
+<img src="images/cartel5.gif" width="180">
+<img src="images/cartel6.gif" width="180">
+
+<img src="images/cartel7.gif" width="180">
+<img src="images/cartel8.gif" width="180">
+<img src="images/cartel9.gif" width="180">
+
+</p>
+
+---
+
+# 📜 Constancias y Certificaciones
+
+- Certificación o curso 1  
+- Certificación o curso 2  
+- Certificación o curso 3  
+
+---
 
 # 📊 Estadísticas GitHub
 
