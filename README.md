@@ -26,7 +26,7 @@ Perfil profesional en Entornos Virtuales
 ---
 
 <p align="center">
-<img src="img/Header_Horizontal.jpg" width="800">
+<img src="img/Banner.png" width="1000" height="100">
 </p>
 
 ---
