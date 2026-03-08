@@ -220,7 +220,7 @@ Universidad Tecnológica de Tlaxcala | 2024 - Presente
 Aplicación móvil de catálogo digital para una tienda de dulces tradicionales.
 
 🎥 Video demostración  
-[![Ver video](img/catalogo-preview.png)](videos/catalogo-digital.mp4)
+[![Ver video](img/Portada_App.png)](videos/catalogo-digital.mp4)
 
 ---
 
@@ -228,15 +228,16 @@ Aplicación móvil de catálogo digital para una tienda de dulces tradicionales.
 Sistema de inventario para PC para la gestión de productos de una tienda de dulces tradicionales.
 
 🎥 Video demostración  
-https://youtube.com/tu-video
+[![Ver video](img/Portada_Sistema.png)](videos/catalogo-digital.mp4)
 
 ---
 
 ### 🎞️ Cortometraje **"Lo Que No Se Dice"**
 Cortometraje audiovisual para concientizar sobre la violencia en el noviazgo.
+[![Ver video](img/Portada_Corto.png)](videos/catalogo-digital.mp4)
 
 🎬 Ver cortometraje  
-https://youtube.com/tu-video
+[![Ver video](img/Portada_Cascabel.png)](videos/catalogo-digital.mp4)
 
 ---
 
