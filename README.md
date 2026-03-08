@@ -1,3 +1,5 @@
+<a id="top"></a>
+
 # NadiaOl15
 
 Perfil profesional en Entornos Virtuales
@@ -23,14 +25,25 @@ Perfil profesional en Entornos Virtuales
 </tr>
 </table>
 
----
+<p align="center">
+
+<a href="#sobre-mi">👩‍💻 Sobre mí</a> |
+<a href="#perfil-profesional">🧑‍💼 Perfil</a> |
+<a href="#tecnologias">🛠️ Tecnologías</a> |
+<a href="#habilidades">⭐ Habilidades personales</a> |
+<a href="#idiomas">🌎 Idiomas</a> |
+<a href="#experiencia">💼 Experiencia</a> |
+<a href="#educacion">🎓 Educación</a> |
+<a href="#proyectos">🚀 Proyectos</a> |
+<a href="#certificados">📜 Certificados</a>
+
+</p>
 
 <p align="center">
 <img src="img/Banner.png" width="100%">
 </p>
 
----
-
+<a id="sobre-mi"></a>
 ## 👩‍💻 Sobre mí
 
 Soy una desarrolladora web y diseñadora digital comprometida con el aprendizaje constante y la mejora continua. Me caracterizo por mi responsabilidad, disciplina y capacidad de adaptación a nuevos retos, buscando siempre desarrollar soluciones creativas, eficientes y orientadas a resultados.
@@ -43,12 +56,14 @@ Destaco por mi creatividad, trabajo en equipo, comunicación y perseverancia, bu
 
 ---
 
+<a id="perfil-profesional"></a>
 ## 🧑‍💼 Perfil Profesional
 
 Desarrolladora y diseñadora digital con experiencia en creación de aplicaciones de realidad aumentada, realidad virtual, modelado 3D, animación 3D, animación 2D, ilustración digital, edición y producción de medios audiovisuales, aplicaciones web responsivas, manejo de bases de datos y diseño de interfaces atractivas. Enfocada en la estética y diseño de la experiencia del usuario.
 
 ---
 
+<a id="tecnologias"></a>
 # 🛠️ Tecnologías y Herramientas
 
 ## 🎨 Diseño y Multimedia
@@ -165,6 +180,7 @@ Google Sheets
 
 ---
 
+<a id="habilidades"></a>
 # ⭐ Habilidades personales
 
 - Creatividad
@@ -176,7 +192,7 @@ Google Sheets
 - Gestión de proyectos digitales
 
 ---
-
+<a id="idiomas"></a>
 # 🌎 Idiomas
 
 - Español — Nativo  
@@ -184,6 +200,7 @@ Google Sheets
 
 ---
 
+<a id="experiencia"></a>
 # 💼 Experiencia laboral
 
 ## 🏢 Excursiones Tlaxcalita la Bella  
@@ -207,6 +224,7 @@ Google Sheets
 
 ---
 
+<a id="educacion"></a>
 # 🎓 Educación
 
 **TSU en Tecnologías de la Información Área Entornos Virtuales y Negocios Digitales**  
@@ -214,6 +232,7 @@ Universidad Tecnológica de Tlaxcala | 2024 - Presente
 
 ---
 
+<a id="proyectos"></a>
 # 🚀 Proyectos
 
 ### 🍬 Catálogo digital en aplicación móvil
@@ -270,6 +289,7 @@ Cortometraje animado en 2D enfocado en la concientización sobre el bullying.
 
 ---
 
+<a id="certificados"></a>
 <h1>📜 Constancias y Certificaciones</h1>
 
 <table>
@@ -335,9 +355,14 @@ Cortometraje animado en 2D enfocado en la concientización sobre el bullying.
 
 ---
 
-# 📊 Estadísticas GitHub
-
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=NadiaOl15&show_icons=true&theme=tokyonight">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=NadiaOl15&theme=tokyonight">
+
+<a href="#top">
+<img src="https://img.shields.io/badge/⬆️%20Volver%20Arriba-2ea44f?style=for-the-badge">
+</a>
+
+<a href="PDF/CV_NadiaPaolaNoyaOlvera.pdf">
+<img src="https://img.shields.io/badge/📄%20Descargar%20CV%20PDF-blue?style=for-the-badge">
+</a>
+
 </p>
