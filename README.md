@@ -239,7 +239,9 @@ Universidad Tecnológica de Tlaxcala | 2024 - Presente
 Aplicación móvil de catálogo digital para una tienda de dulces tradicionales.
 
 🎥 Video demostración  
-[![Ver video](img/Portada_App.png)](videos/VideoUsabilidad_AppMovil_SweetBloom (1).mp4)
+<a href="https://youtu.be/oLUtiBfXnG8">
+<img src="https://img.youtube.com/vi/oLUtiBfXnG8/0.jpg">
+</a>
 
 ---
 
@@ -247,7 +249,9 @@ Aplicación móvil de catálogo digital para una tienda de dulces tradicionales.
 Sistema de inventario para PC para la gestión de productos de una tienda de dulces tradicionales.
 
 🎥 Video demostración  
-[![Ver video](img/Portada_Sistema.png)](videos/VideoUsabilidadEscritorio_SweetBloom.mp4)
+<a href="https://youtu.be/15jF0dVvU9c">
+<img src="https://img.youtube.com/vi/15jF0dVvU9c/0.jpg">
+</a>
 
 ---
 
@@ -256,7 +260,7 @@ Cortometraje audiovisual para concientizar sobre la violencia en el noviazgo.
 
 🎬 Ver cortometraje  
 <a href="https://youtu.be/SglPSpD_hP8">
-<img src="https://img.youtube.com/vi/SglPSpD_hP8/0.jpg" width="100%">
+<img src="https://img.youtube.com/vi/SglPSpD_hP8/0.jpg">
 </a>
 
 ---
@@ -265,7 +269,9 @@ Cortometraje audiovisual para concientizar sobre la violencia en el noviazgo.
 Cortometraje animado en 2D enfocado en la concientización sobre el bullying.
 
 🎬 Ver cortometraje  
-[![Ver video](img/Portada_Cascabel.png)](videos/mr cascabel final (3).mp4)
+<a href="https://youtu.be/CWNvwpcs-6s">
+<img src="https://img.youtube.com/vi/CWNvwpcs-6s/0.jpg">
+</a>
 
 ---
 
