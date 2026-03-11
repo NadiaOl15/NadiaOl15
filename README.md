@@ -196,7 +196,7 @@ Google Sheets
 # 🌎 Idiomas
 
 - Español — Nativo.  
-- Inglés — Intermedio/Alto.
+- Inglés — C1.
 
 ---
 
