@@ -183,20 +183,20 @@ Google Sheets
 <a id="habilidades"></a>
 # ⭐ Habilidades personales
 
-- Creatividad
-- Trabajo en equipo
-- Comunicación
-- Resolución de problemas
-- Adaptabilidad
-- Pensamiento crítico
-- Gestión de proyectos digitales
+- Creatividad.
+- Trabajo en equipo.
+- Comunicación.
+- Resolución de problemas.
+- Adaptabilidad.
+- Pensamiento crítico.
+- Gestión de proyectos digitales.
 
 ---
 <a id="idiomas"></a>
 # 🌎 Idiomas
 
-- Español — Nativo  
-- Inglés — Intermedio/Alto
+- Español — Nativo.  
+- Inglés — Intermedio/Alto.
 
 ---
 
@@ -208,9 +208,9 @@ Google Sheets
 
 <img src="img/CapturaFB.png" width="500">
 
-- Manejo de publicidad pagada
-- Interacción con seguidores
-- Publicación de contenido
+- Manejo de publicidad pagada.
+- Interacción con seguidores.
+- Publicación de contenido.
 
 ---
 
@@ -219,8 +219,8 @@ Google Sheets
 
 <img src="img/Imanes.png" width="500">
 
-- Creación de ilustraciones
-- Creación de contenido multimedia
+- Creación de ilustraciones.
+- Creación de contenido multimedia.
 
 ---
 
@@ -276,6 +276,7 @@ Cortometraje animado en 2D enfocado en la concientización sobre el bullying.
 ---
 
 ### 👩 Carteles digitales animados contra la violencia hacia la mujer
+Carteles con animación como parte de el Día Internacional de la Eliminación de la Violencia Contra la Mujer.
 
 <p align="center">
 
