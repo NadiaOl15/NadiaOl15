@@ -8,7 +8,7 @@ Perfil profesional en Entornos Virtuales
 <tr>
 <td width="150">
 
-<img src="img/PerfilProvisional.jpg" width="140">
+<img src="img/PerfilCV.jpg" width="140">
 
 </td>
 <td>
