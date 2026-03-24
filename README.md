@@ -20,6 +20,7 @@ Perfil profesional en Entornos Virtuales
 📧 nadia.noya.ol@gmail.com  
 📱 241-164-8796  
 🌐 <a href="https://linktr.ee/NadiaNoya">Redes sociales</a>
+💼 <a href="https://nadiaolvera.my.canva.site/">Portafolio</a>
 
 </td>
 </tr>
